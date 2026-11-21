@@ -1,6 +1,3 @@
-print("GitHub 1차")
+print("GitHub 2차")
 print("GitHub에서 대화 중에 고침")
 print("GitHub에서 고친 앱")
-
-(End of file - total 3 lines)
-</content>
