@@ -1,2 +1,2 @@
-print("짓다 1123")
+print("GitHub 1123-2")
 print("GitHub 3차")
